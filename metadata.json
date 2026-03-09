@@ -1,0 +1,7 @@
+{
+  "name": "QR Code Phishing Detection System",
+  "description": "A professional tool for detecting malicious QR code links using real-time pattern analysis and security scanning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
